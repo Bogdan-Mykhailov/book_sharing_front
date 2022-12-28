@@ -1,0 +1,10 @@
+export const REGISTER = 'register';
+export const LOGIN = 'login';
+export const LOGOUT = 'logout';
+export const AUTH = 'auth';
+export const CHECK = 'check';
+export const REFRESH = 'refresh';
+export const ALL = 'all';
+export const BOOK = 'book';
+export const SEARCH = 'search';
+export const GENRE = 'genre';

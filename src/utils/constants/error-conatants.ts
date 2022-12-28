@@ -1,0 +1,16 @@
+export const UNAUTHORISED_ERROR_STATUS = 401;
+export const REQUIRED_EMAIL = 'Email is required';
+export const REQUIRED_BOOK_TITLE = 'Title is required';
+export const REQUIRED_BOOK = 'Book is required!';
+export const REQUIRED_POSTER = 'Poster is required!';
+export const REQUIRED_BOOK_AUTHOR = 'Author is required';
+export const REQUIRED_BOOK_GENRE = 'Genre is required';
+export const REQUIRED_BOOK_DESCRIPTION = 'Description is required';
+export const NOT_CORRECT_EMAIL = 'Email is not correct';
+export const DO_NOT_MATCH_PASSWORD = 'Password do not much';
+export const REQUIRED_PASSWORD = 'Password is required';
+export const TO_SHORT_PASSWORD = 'Password should be more then 8 char';
+export const REQUIRED_NAME = 'Name is required';
+export const FILE_SIZE = 5e6;
+export const WRONG_BOOK_FORMAT = 'Wrong book format';
+export const WRONG_POSTER_FORMAT = 'Wrong poster format';
